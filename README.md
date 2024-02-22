@@ -3,10 +3,10 @@ allows users to download videos in high-quality MP4, low-quality MP4, or as MP3 
 
 
 Features:
-Download High-Quality Video (MP4): Download the highest resolution video available.
-Download Low-Quality Video (MP4): Download the lowest resolution video available.
-Download Audio (MP3): Download only the audio of the video.
-Real-time Progress Tracking: Track the download progress with a progress bar and percentage.
+1. Download High-Quality Video (MP4): Download the highest resolution video available.
+2. Download Low-Quality Video (MP4): Download the lowest resolution video available.
+3. Download Audio (MP3): Download only the audio of the video.
+4. Real-time Progress Tracking: Track the download progress with a progress bar and percentage.
 
 
 Prerequisites:
